@@ -9,4 +9,4 @@ This decision is reinforced when we observe a parallel coordinate plot. We can s
 
 After determining that K = 2 results in an overall better fit to the data I decided to visualise the clusters. Before this possible we need to reduce the number of dimensions. Using principal component analysis, we can analyse the variables and determine which are contributing significantly to the variance. I found that the first three components contributed to the large majority of the variance. Therefore I could plot the clusters in 3-D as seen below.
 
-![Image of framework](https://github.com/jackapbutler/Cluster-Analysis-of-Spotify-Genres/blob/master/Elements/3D_picture.png)
+![Image of framework](https://github.com/jackapbutler/Cluster-Analysis-of-Spotify-Genres/blob/master/Elements/3D_picture.PNG)
